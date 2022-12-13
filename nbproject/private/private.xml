@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/sw/Documents/NetBeansProjects/GstoreCRIS/src/Gstore/config/Conexion.java</file>
+            <file>file:/C:/Users/sw/Documents/NetBeansProjects/GstoreCRIS/src/Gstore/config/Entries.java</file>
+            <file>file:/C:/Users/sw/Documents/NetBeansProjects/GstoreCRIS/src/Gstore/model/Categorias.java</file>
+            <file>file:/C:/Users/sw/Documents/NetBeansProjects/GstoreCRIS/src/Gstore/config/SQLdata.java</file>
+            <file>file:/C:/Users/sw/Documents/NetBeansProjects/GstoreCRIS/src/Gstore/model/Productos.java</file>
+            <file>file:/C:/Users/sw/Documents/NetBeansProjects/GstoreCRIS/src/Gstore/config/lambda.java</file>
+            <file>file:/C:/Users/sw/Documents/NetBeansProjects/GstoreCRIS/src/Gstore/dao/Operaciones.java</file>
+            <file>file:/C:/Users/sw/Documents/NetBeansProjects/GstoreCRIS/src/Gstore/vista/MainLogin.java</file>
+            <file>file:/C:/Users/sw/Documents/NetBeansProjects/GstoreCRIS/src/Gstore/images/background.png</file>
+            <file>file:/C:/Users/sw/Documents/NetBeansProjects/GstoreCRIS/src/Gstore/test/Test.java</file>
+            <file>file:/C:/Users/sw/Documents/NetBeansProjects/GstoreCRIS/src/Gstore/daoImpl/CategoriasDaoImpl.java</file>
+            <file>file:/C:/Users/sw/Documents/NetBeansProjects/GstoreCRIS/src/Gstore/vista/MenuFrame.java</file>
+            <file>file:/C:/Users/sw/Documents/NetBeansProjects/GstoreCRIS/src/Gstore/vista/Register.java</file>
+            <file>file:/C:/Users/sw/Documents/NetBeansProjects/GstoreCRIS/src/Gstore/daoImpl/ProductosDaoImpl.java</file>
+        </group>
+    </open-files>
+</project-private>
